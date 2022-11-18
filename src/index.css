@@ -1,0 +1,12 @@
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts/fonts.css);
+
+.body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Poppins', sans-serif, Calibri;
+  background-color: #1D1D1D;
+}
+
+@import url(./components/Header/Header.css);
